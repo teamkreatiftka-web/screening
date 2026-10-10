@@ -1,0 +1,6 @@
+{
+  "name": "Tumbuh Kembang Anak - Screening & Rekam Medis Makan",
+  "description": "Platform screening masalah makan anak usia 0-5 tahun (Screening Cepat & Asesmen Lengkap) terintegrasi dengan Dashboard Rekam Medis Pasien untuk Klinik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
